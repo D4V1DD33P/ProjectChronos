@@ -1,0 +1,13 @@
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\dalodeep\Desktop\CodeTest\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\dalodeep\Desktop\CodeTest\Application\obj\Debug\netstandard2.1\Application.pdb
